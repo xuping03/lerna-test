@@ -6,5 +6,6 @@ function testModule2() {
   return 'Hello from testModule2';
 }
 testModule1();
+testModule2();
 console.log(testModule1());
 console.log(testModule2());
